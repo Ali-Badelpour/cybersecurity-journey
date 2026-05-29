@@ -3,7 +3,7 @@
 **Start Date:** 25 Ordibehesht 1405 (May 15, 2026)
 **End Date:** 5 Khordad 1405 (May 26, 2026)
 
-**Source:** CITNA News Agency reports on May 15, 2026, that GitHub was once again blocked for Iranian users. (https://www.cinta.ir/node/336506)
+**Source:** CITNA News Agency reports on May 15, 2026, that GitHub was once again blocked for Iranian users. (https://www.citna.ir/node/336506)
 
 **What happened:** GitHub was accessible again on 5 Khordad 1405.
 
